@@ -9,9 +9,10 @@ While the data has been regularly updated, the team has yet to implement a dashb
 ## Instructions
 Aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 Design visualizations for each discovered phenomenon by merging multiple datasets from different periods.
--- Basic: A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey, with zip code data overlaid on top.
 
--- Advanced: A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
+- Basic: A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey, with zip code data overlaid on top.
+
+- Advanced: A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
 
 Use your visualizations to design a dashboard for each phenomenon - accompanied by an analysis explaining why the phenomenon may be occurring.
 Include a write-up describing any trends that were noticed on the map you choose.
