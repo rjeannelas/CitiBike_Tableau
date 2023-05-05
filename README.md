@@ -6,6 +6,8 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 
 While the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. Build a set of data reports to provide the answers for any questions the City officials may have.
 
+### Resource: https://www.citibikenyc.com/system-data
+
 ### TIMESPAN: 03/2022 - 03/2023
 
 ## Instructions
