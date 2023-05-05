@@ -2,9 +2,11 @@
 
 You are responsible for overseeing the largest bike-sharing program in the United States. You have to generate regular reports for city officials looking to publicize and improve the city program.
 
-Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike DataLinks to an external site. webpage.
+Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike DataLinks to an external site.
 
-While the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. Build a set of data reports to provide the answers for any  questions the City officials may have.
+While the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. Build a set of data reports to provide the answers for any questions the City officials may have.
+
+### TIMESPAN: 03/2022 - 03/2023
 
 ## Instructions
 Aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
