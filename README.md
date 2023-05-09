@@ -8,7 +8,7 @@ While the data has been regularly updated, the team has yet to implement a dashb
 
 ### Resource: https://www.citibikenyc.com/system-data
 
-### TIMESPAN: 03/2022 vs 03/2023
+### TIMESPAN: Peak Season Months - 01/2022(Winter) . 04/2022(Spring) . 07/2022(Summer) . 10/2022(Fall)
 
 ## Instructions
 Aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
