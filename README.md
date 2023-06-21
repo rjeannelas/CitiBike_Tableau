@@ -9,6 +9,7 @@ While the data has been regularly updated, the team has yet to implement a dashb
 ### Resource: https://www.citibikenyc.com/system-data
 
 ### TIMESPAN: March 2023
+### TABLEAU: https://public.tableau.com/app/profile/ruthlene.jeannelas/viz/CitiBikeTripDataofMarch2023/StartStationMap?publish=yes
 
 ## Instructions
 Aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
